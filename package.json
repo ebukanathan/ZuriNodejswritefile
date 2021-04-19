@@ -1,0 +1,11 @@
+{
+  "name": "nodejs_writefilechall",
+  "version": "1.0.0",
+  "description": "Zuri Challenge series",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ebuka Nathan",
+  "license": "ISC"
+}
